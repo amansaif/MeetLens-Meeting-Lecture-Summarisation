@@ -1,0 +1,9 @@
+streamlit>=1.30
+scikit-learn>=1.3
+numpy
+pandas
+pypdf
+transformers>=4.38
+torch
+rouge-score
+datasets

@@ -1,0 +1,10 @@
+[00:00:05] Rahul: Good morning everyone. Um, today we will review the progress of the mobile app project and decide the release plan.
+[00:00:40] Priya: The login and payment modules are complete. The search module is still at sixty percent because the API is slow.
+[00:01:20] Rahul: The slow API is the biggest risk for the release. Our users complain about loading time in every survey.
+[00:02:05] Amit: I think the database queries are not optimised. We should add indexes and introduce caching to reduce the response time.
+[00:02:50] Priya: Agreed. I will optimise the search queries and share the benchmark report by Friday.
+[00:03:30] Rahul: Good. Amit, you need to set up the Redis cache on the staging server by Wednesday.
+[00:04:10] Sneha: On the design side, the new onboarding screens are ready. I will send the final assets to the developers tomorrow.
+[00:04:55] Rahul: The marketing team wants the release on the fifteenth of next month. If the search performance improves, we can keep that date.
+[00:05:40] Amit: Testing will need at least one week. Please make sure the QA team gets the build by the end of next week.
+[00:06:20] Rahul: Let's schedule a follow-up meeting on Monday to check the benchmark results. Thanks everyone.
